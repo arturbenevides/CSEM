@@ -3,7 +3,9 @@ been utiltized to reduce exploration risk in recent times. Methods such as gravi
 MCSEM have been incorporated into hydrocarbon exploration (i.e., Coraggio et al., 2012; Yang et al., 2011 and Jain et al., 2008).
 
 
+#
 
+# Reterences
 
 
 Bilkadi, Z. (1984). Bitumen: a history. Aramco.
