@@ -110,3 +110,55 @@ Quasar (2012). Quasar geo. www.quasargeo.com.
 WesternGeco (2008). Westerngeco. http://www.westerngeco.com/content/services/electromagnetic/wgem.asp?
 Learn About Marine CSEM
 
+## Factors influencing Marine CSEM surveys
+
+Amundsen, L., L. Laseth, R. Mittet, S. Ellingsrud, and B. Ursin (2006). Decomposition of electromagnetic fields into upgoing and downgoing components. Geophysics 71 (5), G211–G223.
+
+Archie, G. (1942). The electrical resistivity log as an aid in determining some reservoir characteristics. Transactions of the AIME 146 (1), 8.
+
+Constable, S. (2010). Ten years of marine csem for hydrocarbon exploration. Geophysics 75 (5), 75A67–75A81.
+
+Kong, E.N.; Westerdahl, H. E. S. E. T. J. S. (2002). Seabed logging: A possible direct hydrocarbon indicator for deepsea prospects using em energy. Oil and Gas journal 100, 6.
+
+Maao, F. A. and A. K. Nguyen (2010). Enhanced subsurface response for marine csem surveying. Geophysics 75 (3), A7–A10.
+
+MacGregor, L. M. (2006). Ohm short course.
+
+Myer, D., S. Constable, K. Key, M. E. Glinsky, and G. Liu (2012). Marine csem of the scarborough gas field, part 1: Experimental design and data uncertainty. Geophysics 77, 281.
+
+Orange, A., K. Key, and S. Constable (2009). The feasibility of reservoir monitoring using time-lapse marine csem. Geophysics 74 (2), F21–F29.
+
+Peace, D. (2005, 2 May). How to plan for a successful c.s.e.m. survey.
+
+Pethick, A. (2008). Planning and 4D Visualisation of the Marine Controlled Source Electromagnetic Method. Honours thesis.
+
+Sasaki, Y. and M. A. Meju (2009). Useful characteristics of shallow and deep marine csem responses inferred from 3d finite-difference modeling. Geophysics 74 (5), F67–F76.
+
+Weidelt, P. (2007). Guided waves in marine csem. Geophysical Journal International 171 (1), 153–176.
+
+Wirianto, M., W. A. Mulder, and E. C. Slob (2011). Exploiting the airwave for time-lapse reservoir monitoring with csem on land. Geophysics 76 (3), A15–A19.
+
+Ziolkowski, A. and D. Wright (2010). Signal-to-Noise Ratio of CSEM data in Shallow Water, pp. 685–689. 
+
+
+## The eletromagnetic AirWaves
+
+Constable, S. and C. J. Weiss (2006). Mapping thin resistors and hydrocarbons with marine em methods: Insights from 1d modeling. Geophysics 71 (2), G43–G51.
+
+Eidesmo, T. and S. Ellingsrud (2002). How electromagnetic sounding technique could be coming to hydrocarbon e and p. First Break 20 (3), 11.
+
+Eidesmo, T., S. Ellingsrud, L. M. MacGregor, S. Constable, M. C. Sinha, S. Johansen, F. N. Kong, and H. Westerdah (2002). Sea bed logging (sbl), a new method for remote and direct identification of hydrocarbon filled layers in deepwater areas. First Break 20 (3), 8.
+
+Ellingsrud, S., T. Eidesmo, S. Johansen, M. Sinha, L. MacGregor, and S. Constable (2002). Remote sensing of hydrocarbon layers by seabed logging (sbl): results from a cruise offshore angola. Leading Edge 21 (10), 972–982.
+
+Johansen, S.E.; Amundsen, H. R. T. E. S. E. T. B. A. (2005). Subsurface hydrocarbons detected by electromagnetic sounding. First Break 23, 6.
+
+MacGregor, L. M. (2006). Ohm short course.
+
+Mittet, R.; L˜A¸seth, L. E. S. (2004). Inversion of sbl data acquired in shallow waters.
+
+Tompkins, M., R. Weaver, and L. M. MacGregor (2004). Sensitivity to hydrocarbon targets using marine active source em sounding: Diffusive em imaging methods. In 66th EAGE Conference.
+
+Weidelt, P. (2007). Guided waves in marine csem. Geophysical Journal International 171 (1), 153–176.
+
+Wirianto, M., W. A. Mulder, and E. C. Slob (2011). Exploiting the airwave for time-lapse reservoir monitoring with csem on land. Geophysics 76 (3), A15–A19. 
