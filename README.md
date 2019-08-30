@@ -7,7 +7,8 @@ MCSEM have been incorporated into hydrocarbon exploration (i.e., Coraggio et al.
 
 # Reterences
 
-- Overwiel
+## Overview
+
 Bilkadi, Z. (1984). Bitumen: a history. Aramco.
 
 Constable, S. (2010). Ten years of marine csem for hydrocarbon exploration. Geophysics 75 (5), 75A67–75A81.
@@ -45,7 +46,7 @@ Phillips (2007). Feasibility of the Marine Controlled Source Electromagnetic Met
 Yang, H., Y. Zhang, B. Wen, S. Yu, X. Qi, D. Ma, and Z. Xu (2011). Exploring shallow biogenic gas with high-precision gravity data, pp. 892–896.
 Learn About Marine CSEM
 
-- The Method
+## The Method
 Carstens, H. (2009). Technology: Changing exploration - using non-seismic technology. GEOExPRO 6 (1).
 
 Constable, S. (2010). Ten years of marine csem for hydrocarbon exploration. Geophysics 75 (5), 75A67–75A81.
@@ -67,5 +68,45 @@ Pound, G. (2007). Multi-transient em technology at pgs. Tech Link 7 (4), 8.
 Thirud, P. (2002). Waves of information. Scandinavian Oil and Gas Magazine 3 (4), 2.
 
 Zhdanov, M. (2009). Geophysical Electromagnetic Theory and Methods. Elsevier.
+Learn About Marine CSEM
+
+## Transmitted waveform
+
+Constable, S. and C. S. Cox (1996). Marine controlled-source electromagnetic sounding 2. the pegasus experiment. J. Geophys. Res. 101 (B3), 5519–5530.
+
+Constable, S. C., A. S. Orange, G. M. Hoversten, and H. F. Morrison (1998). Marine magnetotellurics for petroleum exploration; part i, a sea-floor equipment system. Geophysics 63 (3), 816–825.
+
+MacGregor, L. M. (2006). Ohm short course.
+Myer, D., S. Constable, and K. Key (2011). Broad-band waveforms and robust processing for marine csem surveys. Geophysical Journal International 184 (2), 689–698.
+
+Pound, G. (2007). Multi-transient em technology at pgs. Tech Link 7 (4), 8.
+
+Sheriff, R. (2002). Encyclopedic Dictionary of Applied Geophysics. Society of Exploration Geophysicists.
+
+## Multi Component Receivers
+
+Constable, S. (2013). Review paper: Instrumentation for marine magnetotelluric and controlled source electromagnetic sounding. Geophysical Prospecting 61, 505–532.
+
+Constable, S. and C. J. Weiss (2006). Mapping thin resistors and hydrocarbons with marine em methods: Insights from 1d modeling. Geophysics 71 (2), G43–G51.
+
+Constable, S. C., A. S. Orange, G. M. Hoversten, and H. F. Morrison (1998). Marine magnetotellurics for petroleum exploration; part i, a sea-floor equipment system. Geophysics 63 (3), 816–825.
+
+Flosadattir, A. and S. Constable (1996). Marine controlled-source electromagnetic sounding 1. modeling and experimental design. J. Geophys. Res. 101 (B3), 5507–5517.
+
+Hoversten, G. M., F. Cassassuce, E. Gasperikova, G. A. Newman, J. Chen, Y. Rubin, Z. Hou, and D. Vasco (2006). Direct reservoir parameter estimation using joint inversion of marine seismic ava and csem data. Geophysics 71 (3), C1–C13.
+
+Key, K. (2003). Application of Broadband Marine Magnetotelluric Exploration to a 3D salt Structure and a Fast-Spreading Ridge. Ph. d.
+
+MacGregor, L. M., S. Constable, and M. C. Sinha (1998). The ramesses experiment iii. controlled-source electromagnetic sounding of the reykjanes ridge at 57°45’n. Geophysical Journal International 135 (3), 773–789.
+
+OHM (2008). Ohm surveys. www.ohmsurveys.com.
+
+Pethick, A. (2008). Planning and 4D Visualisation of the Marine Controlled Source Electromagnetic Method. Honours thesis.
+
+Phillips (2007). Feasibility of the Marine Controlled Source Electromagnetic Method for Hydrocarbon Exploration. B.sc.
+
+Quasar (2012). Quasar geo. www.quasargeo.com.
+
+WesternGeco (2008). Westerngeco. http://www.westerngeco.com/content/services/electromagnetic/wgem.asp?
 Learn About Marine CSEM
 
