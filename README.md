@@ -7,7 +7,7 @@ MCSEM have been incorporated into hydrocarbon exploration (i.e., Coraggio et al.
 
 # Reterences
 
-
+- Overwiel
 Bilkadi, Z. (1984). Bitumen: a history. Aramco.
 
 Constable, S. (2010). Ten years of marine csem for hydrocarbon exploration. Geophysics 75 (5), 75A67–75A81.
@@ -45,4 +45,27 @@ Phillips (2007). Feasibility of the Marine Controlled Source Electromagnetic Met
 Yang, H., Y. Zhang, B. Wen, S. Yu, X. Qi, D. Ma, and Z. Xu (2011). Exploring shallow biogenic gas with high-precision gravity data, pp. 892–896.
 Learn About Marine CSEM
 
+- The Method
+Carstens, H. (2009). Technology: Changing exploration - using non-seismic technology. GEOExPRO 6 (1).
+
+Constable, S. (2010). Ten years of marine csem for hydrocarbon exploration. Geophysics 75 (5), 75A67–75A81.
+
+Eidesmo, T. and S. Ellingsrud (2002). How electromagnetic sounding technique could becoming to hydrocarbon e and p. First Break 20 (3), 11.
+
+Fischer, P. (2005). New em technology offerings are growing quickly. World Oil 226 (6), 9.
+
+Harris, B. and A. Pethick (2008). Marine controlled source electromagnetic methods for hydrocarbon exploration. Preview 137, 4.
+
+Hesthammer, J., A. Stefatos, M. Boulaenko, A. Vereshagin, P. Gelting, T. Wedberg, and G. Maxwell (2010). Csem technology as a value driver for hydrocarbon exploration. Marine and Petroleum Geology 27 (9), 1872–1884.
+
+MacGregor, L. M. (2006). Ohm short course.
+
+Pethick, A. (2008). Planning and 4D Visualisation of the Marine Controlled Source Electromagnetic Method. Honours thesis.
+
+Pound, G. (2007). Multi-transient em technology at pgs. Tech Link 7 (4), 8.
+
+Thirud, P. (2002). Waves of information. Scandinavian Oil and Gas Magazine 3 (4), 2.
+
+Zhdanov, M. (2009). Geophysical Electromagnetic Theory and Methods. Elsevier.
+Learn About Marine CSEM
 
