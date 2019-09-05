@@ -2,7 +2,7 @@ Seismic methods are an industry standard hydrocarbon exploration technique. Comb
 been utiltized to reduce exploration risk in recent times. Methods such as gravity, magnetism, well logging and more recently 
 MCSEM have been incorporated into hydrocarbon exploration (i.e., Coraggio et al., 2012; Yang et al., 2011 and Jain et al., 2008).
 
-
+http://www.uctv.tv/shows/Postponing-the-End-of-Oil-The-Search-for-Offshore-Energy-Resources-Perspectives-on-Ocean-Science-20654
 #
 
 # Reterences
