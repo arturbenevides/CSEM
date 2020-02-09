@@ -1,4 +1,4 @@
-Bem! Para você que busca trabalhar com dados de perfilagem de poços de petróleo e sente muita dúvidas da estrutura de dados armazenado, aqui pode ser um bom lugar para tirar algumas dúvidas! 
+Bem! Para você que busca trabalhar com dados de perfilagem de poços de petróleo e tem dúvidas da estrutura de dados armazenados, aqui pode ser um bom lugar para tirar algumas! 
 
 ## Perfis utilizados para estudos geofísicos
 - Tradicionais
