@@ -22,6 +22,13 @@ Software de petrofísica
 
 IP
 
+**Manusear aqrquivos .las**
+Lasio
+Excelente biblioteca com vários tutoriais
+https://lasio.readthedocs.io/en/latest/
+Log ASCII Standard (LAS) files in Python
+
+
 **Outros dados**
 
 Geralmente, os poços são acompanhados por:
