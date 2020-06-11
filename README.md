@@ -22,12 +22,16 @@ Software de petrofísica
 
 IP
 
-**Manusear aqrquivos .las**
+- **Manusear aqrquivos .las**
+
 Lasio
 Excelente biblioteca com vários tutoriais
 https://lasio.readthedocs.io/en/latest/
 Log ASCII Standard (LAS) files in Python
 
+- **Criar striplog dos perfis**
+
+https://pypi.org/project/striplog/0.7.1/
 
 **Outros dados**
 
