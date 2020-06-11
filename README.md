@@ -32,3 +32,6 @@ Perfil composto: reune os principais perfis e a coluna estratigráfica em um pdf
 ## Problemas:
 Nos arquivo dLIS, LAS ou até no perfil compostos, os nomes dos perfis não são os mesmos, tal qual nós estamos acostumados (GR, ILD etc..) nesta seção eu vou apresentar o que são cada um e qual correspodem aos perfis tradicionais que conhecemos.
 
+Encontre os nomes dos perfis a partir de seus mneumônicos:
+http://fuzzylas.appspot.com/
+
