@@ -26,6 +26,8 @@ Toolboxs Schlumberger
 
 * Log Data Toolbox (DLIS to ASCII): Permite conversão facil dos arquivos com algumas opçoes de export interessante (uniformizar o depth step, visualizar rapidamente as profundidades mínimas e máximas de cada frame, e direção do indice de profundidade- aumentando ou diminuindo com as linhas).
 
+https://github.com/arturbenevides/Well_log_analysis/blob/master/Toobox_log.png
+
 * dLis browser (versão trial), não é posível uniformizar o depth step entre os perfis, eles serão separados em diferentes frames. Sem controle da direção do indice de profundidade e unidade de profundidade (feet or meters). O maior benefício desse software é a possibilidade de poder visualizar as curvas antes da conversão.
 
 
