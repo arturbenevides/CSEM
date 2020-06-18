@@ -13,7 +13,7 @@ BHT (Bottom-hole temperature)
 
 Os dados são geralmente gravados em um formato conhecido como dLIS que é um arquivo de formatação binária, sendo assim, podem ser lidos por meio de programas especificos ou convertidos para um arquivo de texto (.las).
 
-A maioria dos softwares que importam dados .dlis não são gratuitos e quando são, não tem opção de exportar o dado em formato de leitura, como .las e ascii (por exemplo, (Well log viewer)[http://www.starseis.com/index.php/lasviewer].
+A maioria dos softwares que importam dados .dlis não são gratuitos e quando são, não tem opção de exportar o dado em formato de leitura, como .las e ascii (por exemplo, [Well log viewer][http://www.starseis.com/index.php/lasviewer].
 
 Se você tem interesse em manipular as curvas dos perfis em seu estudo, temos algumas possibilidades:
 
