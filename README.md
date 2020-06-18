@@ -31,19 +31,20 @@ Toolboxs Schlumberger
 
 Após conversão dos dados, inúmeros programas facilitam o import e manuseio dos dados. Abaixo listo algumas bibliotecas que podem ser usadas no python.
 - **Manusear aqrquivos .las**
-[**Lasio**](https://pypi.org/project/lasio/)
+* [**Lasio**](https://pypi.org/project/lasio/)
 Excelente biblioteca com vários tutoriais
 
 https://lasio.readthedocs.io/en/latest/
 
 Log ASCII Standard (LAS) files in Python
 
-**Welly**
-**las2**
+* **Welly**
+* **las2**
+* [**Petropy**](https://pypi.org/project/petropy/)
 
 - **Criar striplog dos perfis**
 
-https://pypi.org/project/striplog/0.7.1/
+* [**Striplog**](https://pypi.org/project/striplog/0.7.1/)
 
 **Outros dados**
 
