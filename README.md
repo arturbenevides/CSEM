@@ -1,5 +1,6 @@
 Bem! Para você que busca trabalhar com dados de perfilagem de poços de petróleo e tem dúvidas da estrutura de dados armazenados, aqui pode ser um bom lugar para tirar algumas! 
 
+
 ## Perfis utilizados para estudos geofísicos
 - Convencionais
 GR (Gamma ray)
@@ -68,4 +69,5 @@ http://fuzzylas.appspot.com/
 
 Uma biblioteca em python pode ajuadar a localizar o seu perfil de interesse a partir dos seu dado:
 
-
+#
+Se não encontrou sua dúvida aqui, encaminhe um e-mail para benevidesartur@gmail.com para abrirmos uma discussão.
